@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cah-venkateswarlu-bommineni
+- 👋 Hi, I’m Venkateswarlu Bommineni
 - 👀 I’m interested in DevOps,DevSecOps, Ansible,Terraform, Docker,Kubernetes, CI/CD, AWS Cloud
 - 🌱 I’m currently learning Quarkus.
 - 💞️ I’m looking to collaborate on OpenStack and Openshift.
